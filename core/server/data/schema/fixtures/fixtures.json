@@ -475,7 +475,7 @@
                     "facebook": "ghost",
                     "location": "The Internet",
                     "website": "https://ghost.org",
-                    "bio": "You can delete this user to remove all the welcome posts",
+                    "bio": "您可以删除该用户删除所有欢迎帖子",
                     "profile_image": "https://static.ghost.org/v3.0.0/images/ghost.png"
                 }
             ]
